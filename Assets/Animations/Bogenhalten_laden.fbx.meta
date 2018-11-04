@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 58f4dd652c63395479fb71d6e90133c6
+timeCreated: 1437327126
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bones
+    100004: Bones|Bauch
+    100006: Bones|Brustkorb
+    100008: Bones|Daumen.L
+    100010: Bones|Daumen.R
+    100012: Bones|Daumen1.L
+    100014: Bones|Daumen1.R
+    100016: Bones|Daumen2.L
+    100018: Bones|Daumen2.R
+    100020: Bones|Ellenbogen.L
+    100022: Bones|Ellenbogen.R
+    100024: "Bones|Fu\xDF-IK.L"
+    100026: "Bones|Fu\xDF-IK.R"
+    100028: "Bones|Fu\xDF.L"
+    100030: "Bones|Fu\xDF.R"
+    100032: "Bones|gro\xDFer Zeh.L"
+    100034: "Bones|gro\xDFer Zeh.R"
+    100036: Bones|Hals
+    100038: Bones|Hand-IK.L
+    100040: Bones|Hand-IK.R
+    100042: Bones|Hand.L
+    100044: Bones|Hand.R
+    100046: "Bones|H\xFCfte"
+    100048: Bones|kleiner Finger.L
+    100050: Bones|kleiner Finger.R
+    100052: Bones|kleiner Finger1.L
+    100054: Bones|kleiner Finger1.R
+    100056: Bones|kleiner Finger2.L
+    100058: Bones|kleiner Finger2.R
+    100060: Bones|kleiner Zeh.L
+    100062: Bones|kleiner Zeh.R
+    100064: Bones|Knie.L
+    100066: Bones|Knie.R
+    100068: Bones|Kopf
+    100070: Bones|Mittelfinger.L
+    100072: Bones|Mittelfinger.R
+    100074: Bones|Mittelfinger1.L
+    100076: Bones|Mittelfinger1.R
+    100078: Bones|Mittelfinger2.L
+    100080: Bones|Mittelfinger2.R
+    100082: Bones|Mittelzeh.L
+    100084: Bones|Mittelzeh.R
+    100086: Bones|Oberarm.L
+    100088: Bones|Oberarm.R
+    100090: Bones|Oberschenkel.L
+    100092: Bones|Oberschenkel.R
+    100094: Bones|Ringfinger.L
+    100096: Bones|Ringfinger.R
+    100098: Bones|Ringfinger1.L
+    100100: Bones|Ringfinger1.R
+    100102: Bones|Ringfinger2.L
+    100104: Bones|Ringfinger2.R
+    100106: Bones|Ringzeh.L
+    100108: Bones|Ringzeh.R
+    100110: Bones|Schulter.L
+    100112: Bones|Schulter.R
+    100114: Bones|Steuerbone
+    100116: Bones|Unterarm.L
+    100118: Bones|Unterarm.R
+    100120: Bones|Unterschenkel.L
+    100122: Bones|Unterschenkel.R
+    100124: Bones|Zehen.L
+    100126: Bones|Zehen.R
+    100128: Bones|Zeigefinger.L
+    100130: Bones|Zeigefinger.R
+    100132: Bones|Zeigefinger1.L
+    100134: Bones|Zeigefinger1.R
+    100136: Bones|Zeigefinger2.L
+    100138: Bones|Zeigefinger2.R
+    100140: Bones|Zeigezeh.L
+    100142: Bones|Zeigezeh.R
+    100144: "K\xF6rper_new"
+    400000: //RootNode
+    400002: Bones
+    400004: Bones|Bauch
+    400006: Bones|Brustkorb
+    400008: Bones|Daumen.L
+    400010: Bones|Daumen.R
+    400012: Bones|Daumen1.L
+    400014: Bones|Daumen1.R
+    400016: Bones|Daumen2.L
+    400018: Bones|Daumen2.R
+    400020: Bones|Ellenbogen.L
+    400022: Bones|Ellenbogen.R
+    400024: "Bones|Fu\xDF-IK.L"
+    400026: "Bones|Fu\xDF-IK.R"
+    400028: "Bones|Fu\xDF.L"
+    400030: "Bones|Fu\xDF.R"
+    400032: "Bones|gro\xDFer Zeh.L"
+    400034: "Bones|gro\xDFer Zeh.R"
+    400036: Bones|Hals
+    400038: Bones|Hand-IK.L
+    400040: Bones|Hand-IK.R
+    400042: Bones|Hand.L
+    400044: Bones|Hand.R
+    400046: "Bones|H\xFCfte"
+    400048: Bones|kleiner Finger.L
+    400050: Bones|kleiner Finger.R
+    400052: Bones|kleiner Finger1.L
+    400054: Bones|kleiner Finger1.R
+    400056: Bones|kleiner Finger2.L
+    400058: Bones|kleiner Finger2.R
+    400060: Bones|kleiner Zeh.L
+    400062: Bones|kleiner Zeh.R
+    400064: Bones|Knie.L
+    400066: Bones|Knie.R
+    400068: Bones|Kopf
+    400070: Bones|Mittelfinger.L
+    400072: Bones|Mittelfinger.R
+    400074: Bones|Mittelfinger1.L
+    400076: Bones|Mittelfinger1.R
+    400078: Bones|Mittelfinger2.L
+    400080: Bones|Mittelfinger2.R
+    400082: Bones|Mittelzeh.L
+    400084: Bones|Mittelzeh.R
+    400086: Bones|Oberarm.L
+    400088: Bones|Oberarm.R
+    400090: Bones|Oberschenkel.L
+    400092: Bones|Oberschenkel.R
+    400094: Bones|Ringfinger.L
+    400096: Bones|Ringfinger.R
+    400098: Bones|Ringfinger1.L
+    400100: Bones|Ringfinger1.R
+    400102: Bones|Ringfinger2.L
+    400104: Bones|Ringfinger2.R
+    400106: Bones|Ringzeh.L
+    400108: Bones|Ringzeh.R
+    400110: Bones|Schulter.L
+    400112: Bones|Schulter.R
+    400114: Bones|Steuerbone
+    400116: Bones|Unterarm.L
+    400118: Bones|Unterarm.R
+    400120: Bones|Unterschenkel.L
+    400122: Bones|Unterschenkel.R
+    400124: Bones|Zehen.L
+    400126: Bones|Zehen.R
+    400128: Bones|Zeigefinger.L
+    400130: Bones|Zeigefinger.R
+    400132: Bones|Zeigefinger1.L
+    400134: Bones|Zeigefinger1.R
+    400136: Bones|Zeigefinger2.L
+    400138: Bones|Zeigefinger2.R
+    400140: Bones|Zeigezeh.L
+    400142: Bones|Zeigezeh.R
+    400144: "K\xF6rper_new"
+    4300000: "K\xF6rper_new"
+    7400000: Bogen_laden
+    9500000: //RootNode
+    13700000: "K\xF6rper_new"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bogen_laden
+      takeName: Bones|Bogen_laden
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .414448678
+        functionName: Reload
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .630363047
+        functionName: SetBodyRotation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones
+        weight: 1
+      - path: Bones/Bones|Steuerbone
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Hals
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Hals/Bones|Kopf
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Daumen.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Daumen.L/Bones|Daumen1.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Daumen.L/Bones|Daumen1.L/Bones|Daumen2.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|kleiner
+          Finger.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|kleiner
+          Finger.L/Bones|kleiner Finger1.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|kleiner
+          Finger.L/Bones|kleiner Finger1.L/Bones|kleiner Finger2.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Mittelfinger.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Mittelfinger.L/Bones|Mittelfinger1.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Mittelfinger.L/Bones|Mittelfinger1.L/Bones|Mittelfinger2.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Ringfinger.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Ringfinger.L/Bones|Ringfinger1.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Ringfinger.L/Bones|Ringfinger1.L/Bones|Ringfinger2.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Zeigefinger.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Zeigefinger.L/Bones|Zeigefinger1.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.L/Bones|Oberarm.L/Bones|Unterarm.L/Bones|Hand.L/Bones|Zeigefinger.L/Bones|Zeigefinger1.L/Bones|Zeigefinger2.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Daumen.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Daumen.R/Bones|Daumen1.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Daumen.R/Bones|Daumen1.R/Bones|Daumen2.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|kleiner
+          Finger.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|kleiner
+          Finger.R/Bones|kleiner Finger1.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|kleiner
+          Finger.R/Bones|kleiner Finger1.R/Bones|kleiner Finger2.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Mittelfinger.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Mittelfinger.R/Bones|Mittelfinger1.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Mittelfinger.R/Bones|Mittelfinger1.R/Bones|Mittelfinger2.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Ringfinger.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Ringfinger.R/Bones|Ringfinger1.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Ringfinger.R/Bones|Ringfinger1.R/Bones|Ringfinger2.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Zeigefinger.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Zeigefinger.R/Bones|Zeigefinger1.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Bauch/Bones|Brustkorb/Bones|Schulter.R/Bones|Oberarm.R/Bones|Unterarm.R/Bones|Hand.R/Bones|Zeigefinger.R/Bones|Zeigefinger1.R/Bones|Zeigefinger2.R
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Ellenbogen.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Ellenbogen.R
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|Fu\xDF-IK.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|Fu\xDF-IK.R"
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Hand-IK.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Hand-IK.R
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L/Bones|gro\xDFer
+          Zeh.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L/Bones|kleiner
+          Zeh.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L/Bones|Mittelzeh.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L/Bones|Ringzeh.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L/Bones|Zehen.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.L/Bones|Unterschenkel.L/Bones|Fu\xDF.L/Bones|Zeigezeh.L"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R/Bones|gro\xDFer
+          Zeh.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R/Bones|kleiner
+          Zeh.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R/Bones|Mittelzeh.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R/Bones|Ringzeh.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R/Bones|Zehen.R"
+        weight: 1
+      - path: "Bones/Bones|Steuerbone/Bones|H\xFCfte/Bones|Oberschenkel.R/Bones|Unterschenkel.R/Bones|Fu\xDF.R/Bones|Zeigezeh.R"
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Knie.L
+        weight: 1
+      - path: Bones/Bones|Steuerbone/Bones|Knie.R
+        weight: 1
+      - path: "K\xF6rper_new"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bones|Steuerbone
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

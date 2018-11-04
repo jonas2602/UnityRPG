@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1bd042c2c128bf741a537c71aaabfff5
+timeCreated: 1431975040
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - profil: {instanceID: 0}
+  - Interface: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - HandBoneL: {instanceID: 0}
+  - HandBoneR: {instanceID: 0}
+  - currentWeapon: {instanceID: 0}
+  - Quiver: {instanceID: 0}
+  - Chest: {instanceID: 0}
+  - Sheath: {instanceID: 0}
+  - Arrow: {instanceID: 0}
+  - ArrowPrefab: {instanceID: 0}
+  - ZeigefingerR: {instanceID: 0}
+  - charController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

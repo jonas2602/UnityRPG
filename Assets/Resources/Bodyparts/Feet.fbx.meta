@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: db8530861355ecf4dbf503b57f9ad274
+timeCreated: 1431252082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bones
+    100002: "Bones|Fu\xDF-IK.L"
+    100004: "Bones|Fu\xDF-IK.R"
+    100006: "Bones|Fu\xDF.L"
+    100008: "Bones|Fu\xDF.R"
+    100010: "Bones|gro\xDFer Zeh.L"
+    100012: "Bones|gro\xDFer Zeh.R"
+    100014: "Bones|H\xFCfte"
+    100016: Bones|kleiner Zeh.L
+    100018: Bones|kleiner Zeh.R
+    100020: Bones|Mittelzeh.L
+    100022: Bones|Mittelzeh.R
+    100024: Bones|Oberschenkel.L
+    100026: Bones|Oberschenkel.R
+    100028: Bones|Ringzeh.L
+    100030: Bones|Ringzeh.R
+    100032: Bones|Steuerbone
+    100034: Bones|Unterschenkel.L
+    100036: Bones|Unterschenkel.R
+    100038: Bones|Zehen.L
+    100040: Bones|Zehen.R
+    100042: Bones|Zeigezeh.L
+    100044: Bones|Zeigezeh.R
+    100046: //RootNode
+    100048: "K\xF6rper_new"
+    400000: Bones
+    400002: "Bones|Fu\xDF-IK.L"
+    400004: "Bones|Fu\xDF-IK.R"
+    400006: "Bones|Fu\xDF.L"
+    400008: "Bones|Fu\xDF.R"
+    400010: "Bones|gro\xDFer Zeh.L"
+    400012: "Bones|gro\xDFer Zeh.R"
+    400014: "Bones|H\xFCfte"
+    400016: Bones|kleiner Zeh.L
+    400018: Bones|kleiner Zeh.R
+    400020: Bones|Mittelzeh.L
+    400022: Bones|Mittelzeh.R
+    400024: Bones|Oberschenkel.L
+    400026: Bones|Oberschenkel.R
+    400028: Bones|Ringzeh.L
+    400030: Bones|Ringzeh.R
+    400032: Bones|Steuerbone
+    400034: Bones|Unterschenkel.L
+    400036: Bones|Unterschenkel.R
+    400038: Bones|Zehen.L
+    400040: Bones|Zehen.R
+    400042: Bones|Zeigezeh.L
+    400044: Bones|Zeigezeh.R
+    400046: //RootNode
+    400048: "K\xF6rper_new"
+    4300000: "K\xF6rper_new"
+    9500000: //RootNode
+    13700000: "K\xF6rper_new"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

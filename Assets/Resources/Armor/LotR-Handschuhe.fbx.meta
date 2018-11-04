@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 4460822e06e695040abca3d271f72172
+timeCreated: 1431255076
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bones
+    100002: Bones|Bauch
+    100004: Bones|Brustkorb
+    100006: Bones|Daumen.L
+    100008: Bones|Daumen.R
+    100010: Bones|Daumen1.L
+    100012: Bones|Daumen1.R
+    100014: Bones|Daumen2.L
+    100016: Bones|Daumen2.R
+    100018: Bones|Hand-IK.L
+    100020: Bones|Hand-IK.R
+    100022: Bones|Hand.L
+    100024: Bones|Hand.R
+    100026: "Bones|H\xFCfte"
+    100028: Bones|kleiner Finger.L
+    100030: Bones|kleiner Finger.R
+    100032: Bones|kleiner Finger1.L
+    100034: Bones|kleiner Finger1.R
+    100036: Bones|kleiner Finger2.L
+    100038: Bones|kleiner Finger2.R
+    100040: Bones|Mittelfinger.L
+    100042: Bones|Mittelfinger.R
+    100044: Bones|Mittelfinger1.L
+    100046: Bones|Mittelfinger1.R
+    100048: Bones|Mittelfinger2.L
+    100050: Bones|Mittelfinger2.R
+    100052: Bones|Oberarm.L
+    100054: Bones|Oberarm.R
+    100056: Bones|Ringfinger.L
+    100058: Bones|Ringfinger.R
+    100060: Bones|Ringfinger1.L
+    100062: Bones|Ringfinger1.R
+    100064: Bones|Ringfinger2.L
+    100066: Bones|Ringfinger2.R
+    100068: Bones|Schulter.L
+    100070: Bones|Schulter.R
+    100072: Bones|Steuerbone
+    100074: Bones|Unterarm.L
+    100076: Bones|Unterarm.R
+    100078: Bones|Zeigefinger.L
+    100080: Bones|Zeigefinger.R
+    100082: Bones|Zeigefinger1.L
+    100084: Bones|Zeigefinger1.R
+    100086: Bones|Zeigefinger2.L
+    100088: Bones|Zeigefinger2.R
+    100090: //RootNode
+    100092: Handschuhe
+    400000: Bones
+    400002: Bones|Bauch
+    400004: Bones|Brustkorb
+    400006: Bones|Daumen.L
+    400008: Bones|Daumen.R
+    400010: Bones|Daumen1.L
+    400012: Bones|Daumen1.R
+    400014: Bones|Daumen2.L
+    400016: Bones|Daumen2.R
+    400018: Bones|Hand-IK.L
+    400020: Bones|Hand-IK.R
+    400022: Bones|Hand.L
+    400024: Bones|Hand.R
+    400026: "Bones|H\xFCfte"
+    400028: Bones|kleiner Finger.L
+    400030: Bones|kleiner Finger.R
+    400032: Bones|kleiner Finger1.L
+    400034: Bones|kleiner Finger1.R
+    400036: Bones|kleiner Finger2.L
+    400038: Bones|kleiner Finger2.R
+    400040: Bones|Mittelfinger.L
+    400042: Bones|Mittelfinger.R
+    400044: Bones|Mittelfinger1.L
+    400046: Bones|Mittelfinger1.R
+    400048: Bones|Mittelfinger2.L
+    400050: Bones|Mittelfinger2.R
+    400052: Bones|Oberarm.L
+    400054: Bones|Oberarm.R
+    400056: Bones|Ringfinger.L
+    400058: Bones|Ringfinger.R
+    400060: Bones|Ringfinger1.L
+    400062: Bones|Ringfinger1.R
+    400064: Bones|Ringfinger2.L
+    400066: Bones|Ringfinger2.R
+    400068: Bones|Schulter.L
+    400070: Bones|Schulter.R
+    400072: Bones|Steuerbone
+    400074: Bones|Unterarm.L
+    400076: Bones|Unterarm.R
+    400078: Bones|Zeigefinger.L
+    400080: Bones|Zeigefinger.R
+    400082: Bones|Zeigefinger1.L
+    400084: Bones|Zeigefinger1.R
+    400086: Bones|Zeigefinger2.L
+    400088: Bones|Zeigefinger2.R
+    400090: //RootNode
+    400092: Handschuhe
+    4300000: Handschuhe
+    9500000: //RootNode
+    13700000: Handschuhe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

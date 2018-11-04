@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 3adbaa5663b2d4c4b968ff2c2fc3128c
+timeCreated: 1428402210
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bogen.001
+    100002: //RootNode
+    100004: Bow_Armature
+    100006: Bow_Armature|Bone
+    100008: Bow_Armature|Bone.001
+    100010: Bow_Armature|Bone.002
+    100012: Bow_Armature|Bone.003
+    100014: Bow_Armature|Bone.004
+    100016: Bow_Armature|Bone.005
+    100018: Bow_Armature|Bone.006
+    100020: Bow_Armature|Bone.007
+    100022: Bow_Armature|Bone.008
+    100024: Bow_Armature|Bone.009
+    100026: Bow_Armature|Bone.010
+    100028: Bow_Armature|Bone.011
+    100030: Bow_Armature|IK_O
+    100032: Bow_Armature|IK_U
+    100034: Bow_Armature|Steuerbone
+    400000: Bogen.001
+    400002: //RootNode
+    400004: Bow_Armature
+    400006: Bow_Armature|Bone
+    400008: Bow_Armature|Bone.001
+    400010: Bow_Armature|Bone.002
+    400012: Bow_Armature|Bone.003
+    400014: Bow_Armature|Bone.004
+    400016: Bow_Armature|Bone.005
+    400018: Bow_Armature|Bone.006
+    400020: Bow_Armature|Bone.007
+    400022: Bow_Armature|Bone.008
+    400024: Bow_Armature|Bone.009
+    400026: Bow_Armature|Bone.010
+    400028: Bow_Armature|Bone.011
+    400030: Bow_Armature|IK_O
+    400032: Bow_Armature|IK_U
+    400034: Bow_Armature|Steuerbone
+    4300000: Bogen.001
+    7400000: gespannt
+    7400002: Bow_Armature|Close
+    7400004: Bow_Armature|Open
+    7400006: entspannt
+    7400008: idle
+    9500000: //RootNode
+    13700000: Bogen.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gespannt
+      takeName: Bow_Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bogen.001
+        weight: 1
+      - path: Bow_Armature
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004/Bow_Armature|Bone.005
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004/Bow_Armature|Bone.005/Bow_Armature|Bone.006
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007/Bow_Armature|Bone.008
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007/Bow_Armature|Bone.008/Bow_Armature|Bone.009
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone/Bow_Armature|IK_O
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone/Bow_Armature|IK_U
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: entspannt
+      takeName: Bow_Armature|ArmatureAction
+      firstFrame: 10
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bogen.001
+        weight: 1
+      - path: Bow_Armature
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004/Bow_Armature|Bone.005
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004/Bow_Armature|Bone.005/Bow_Armature|Bone.006
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007/Bow_Armature|Bone.008
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007/Bow_Armature|Bone.008/Bow_Armature|Bone.009
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone/Bow_Armature|IK_O
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone/Bow_Armature|IK_U
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Bow_Armature|ArmatureAction
+      firstFrame: 25
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bogen.001
+        weight: 1
+      - path: Bow_Armature
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004/Bow_Armature|Bone.005
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone/Bow_Armature|Bone.001/Bow_Armature|Bone.010/Bow_Armature|Bone.004/Bow_Armature|Bone.005/Bow_Armature|Bone.006
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007/Bow_Armature|Bone.008
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Bone.002/Bow_Armature|Bone.003/Bow_Armature|Bone.011/Bow_Armature|Bone.007/Bow_Armature|Bone.008/Bow_Armature|Bone.009
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone/Bow_Armature|IK_O
+        weight: 1
+      - path: Bow_Armature/Bow_Armature|Steuerbone/Bow_Armature|IK_U
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

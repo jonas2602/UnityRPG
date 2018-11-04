@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: d5998fc42591d7e40a21a9049a55a024
+timeCreated: 1431335400
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bones
+    100002: Bones|Bauch
+    100004: Bones|Brustkorb
+    100006: Bones|Hals
+    100008: "Bones|H\xFCfte"
+    100010: Bones|Oberarm.L
+    100012: Bones|Oberarm.R
+    100014: Bones|Schulter.L
+    100016: Bones|Schulter.R
+    100018: Bones|Steuerbone
+    100020: Bones|Unterarm.L
+    100022: Bones|Unterarm.R
+    100024: "K\xF6rper_new"
+    100026: //RootNode
+    400000: Bones
+    400002: Bones|Bauch
+    400004: Bones|Brustkorb
+    400006: Bones|Hals
+    400008: "Bones|H\xFCfte"
+    400010: Bones|Oberarm.L
+    400012: Bones|Oberarm.R
+    400014: Bones|Schulter.L
+    400016: Bones|Schulter.R
+    400018: Bones|Steuerbone
+    400020: Bones|Unterarm.L
+    400022: Bones|Unterarm.R
+    400024: "K\xF6rper_new"
+    400026: //RootNode
+    4300000: "K\xF6rper_new"
+    9500000: //RootNode
+    13700000: "K\xF6rper_new"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
